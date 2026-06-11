@@ -1,0 +1,22 @@
+# Large binary files
+*.pdf
+*.docx
+*.odt
+*.doc
+*.xlsx
+*.xls
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+Thumbs.db
